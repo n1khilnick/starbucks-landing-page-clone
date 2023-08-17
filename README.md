@@ -16,33 +16,13 @@ You can see a live demo of the Starbucks Landing Page Clone [here](https://n1khi
 
 - Responsive navigation menu
 - Hero section with background image
-- JavaScript functionality to change hero background image on button click
+- JavaScript functionality to dynamically change the hero background image when the user clicks on the image buttons representing the Frappuccino cups below.
 
 ## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
-
-## Getting Started
-
-To get a local copy of this project up and running, follow these steps:
-
-1. Clone this repository: `git clone https://github.com/your-username/starbucks-landing-clone.git`
-2. Navigate to the project directory: `cd starbucks-landing-clone`
-3. Open `index.html` in your preferred web browser.
-
-## Usage
-
-Feel free to use this project as a starting point for your own landing page projects. Customize the styles, content, and functionalities to suit your needs.
-
-## Contributing
-
-Contributions are welcome! If you find any issues or improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
