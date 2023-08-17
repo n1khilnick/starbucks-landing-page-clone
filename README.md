@@ -48,4 +48,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Note:** This is a simplified clone and not an official Starbucks project.
 
-Created by [Your Name](https://your-website.com).
+Created by [N1khil](https://github.com/n1khilnick).
