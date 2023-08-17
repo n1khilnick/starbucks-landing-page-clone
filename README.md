@@ -2,7 +2,7 @@
 
 A simplified clone of the Starbucks landing page built using HTML, CSS, and JavaScript.
 
-![Starbucks Landing Page](screenshot.png)
+![Screenshot 1](https://github.com/n1khilnick/starbucks-landing-page-clone/blob/b27d5a0e29ce42b2ee42bfa297020d43784edd8f/images/Starbucks-preview.png)
 
 ## Description
 
@@ -10,12 +10,7 @@ This project is a basic representation of a Starbucks landing page. It includes 
 
 ## Demo
 
-You can see a live demo of the Starbucks Landing Page Clone [here](https://your-demo-link.com).
-
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+You can see a live demo of the Starbucks Landing Page Clone [here](https://n1khilnick.github.io/starbucks-landing-page-clone/).
 
 ## Features
 
